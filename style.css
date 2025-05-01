@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+.kartinka{
+    width: 500px;
+    height: 400px;
+}
+
+h1{
+    color: red;
+    background-image: linear-gradient(to right, blue, white, blue);
+}
+
+h1:hover{
+    color: blue;
+}
